@@ -1,0 +1,12 @@
+aviread
+movieview
+save('filename','variable')
+imshow
+uint8
+convenc
+poly2trellis
+vitdec
+bi2de
+bin2dec
+reshape
+movie2avi
